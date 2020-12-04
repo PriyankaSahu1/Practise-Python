@@ -3,6 +3,5 @@ print(list1)
 list2=("sarah","alex","anthony","mary","maria","tony","klein","kale","kevin","kelvin")
 print(list2)
 
-index=int(input("ënetr the index to check the details: "))
-print(list1[index],list2[index])
+
 
